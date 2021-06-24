@@ -1,0 +1,2 @@
+# SLIDER-CSS-HTML-JAVASCRIPT
+SLIDER-CSS-HTML-JAVASCRIPT  - Feito no Canal dev net core
